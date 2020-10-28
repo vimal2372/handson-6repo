@@ -1,0 +1,9 @@
+C:\Users\vimal\Desktop\Stage 4\hands-on6\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vimal\Desktop\Stage 4\hands-on6\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vimal\Desktop\Stage 4\hands-on6\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\vimal\Desktop\Stage 4\hands-on6\obj\Debug\netcoreapp3.1\hands-on6.csprojAssemblyReference.cache
+C:\Users\vimal\Desktop\Stage 4\hands-on6\obj\Debug\netcoreapp3.1\hands-on6.AssemblyInfoInputs.cache
+C:\Users\vimal\Desktop\Stage 4\hands-on6\obj\Debug\netcoreapp3.1\hands-on6.AssemblyInfo.cs
+C:\Users\vimal\Desktop\Stage 4\hands-on6\obj\Debug\netcoreapp3.1\hands-on6.RazorTargetAssemblyInfo.cache
+C:\Users\vimal\Desktop\Stage 4\hands-on6\obj\Debug\netcoreapp3.1\staticwebassets\hands-on6.StaticWebAssets.Manifest.cache
+C:\Users\vimal\Desktop\Stage 4\hands-on6\obj\Debug\netcoreapp3.1\staticwebassets\hands-on6.StaticWebAssets.xml
