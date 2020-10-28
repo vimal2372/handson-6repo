@@ -13,8 +13,8 @@ spec:
         app: hands-on6
     spec:
       containers:
-      - name: hands-on6repos
-        image: samplecr.azurecr.io/dockersamplerepos:latest
+      - name: handson6repos
+        image: samplecr.azurecr.io/handson6repos:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
